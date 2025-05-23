@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:16-05-25
-## Reg. No.212222230112
+
+## Reg. No.212222240062
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -33,6 +33,9 @@ To demonstrate how various prompting techniques (query decomposition, decision-m
 ○	Creativity/Originality: Is the content engaging and fresh?
 ○	Accuracy: Is the content factually accurate (for reports and case studies)?
 ○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
+
+![image](https://github.com/user-attachments/assets/86b76c52-7c9b-4ac1-bf90-3f8fb587307d)
+
 ________________________________________
 Test Case Scenarios for Content Generation: (USE ANY 2)
 content generation scenarios:
@@ -49,6 +52,9 @@ content generation scenarios:
 11.	How to Build an E-commerce Website
 12.	Social Issue Awareness Campaign
 13.	Artificial Intelligence Impact on Healthcare
+
+	![image](https://github.com/user-attachments/assets/d620cee8-1151-4049-a582-d39aee01b86d)
+
 ## Instructions:
 1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
 2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
@@ -56,11 +62,16 @@ content generation scenarios:
 4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
 5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
 
+	![image](https://github.com/user-attachments/assets/b460842f-67cb-4ed0-b773-e27f4dcbef4f)
+
+
 ## Deliverables:
 1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+
+![image](https://github.com/user-attachments/assets/467c776c-68bb-46ca-ae78-20fa62156838)
 
 # AI TOOLS REQUIRED:
 ● For assistance – ChatGPT, Claude, DeepSeek
@@ -214,9 +225,11 @@ Prompt 3: "Highlight cities that have successfully implemented such systems."
 Initial Output: "Smart grids reduce energy wastage through real-time monitoring."
 
 Refined Prompt: "Include metrics or statistics showing energy savings post-implementation."
+![image](https://github.com/user-attachments/assets/e4fedd3e-5c07-460f-8410-ce499d48434b)
 
 # Conclusion
 Different prompting techniques significantly enhance the quality, structure, and purpose alignment of AI-generated content. By strategically choosing between query decomposition, decision-making, semantic filtering, and role-based approaches, content creators can produce targeted, audience-specific outputs on themes such as Sustainable Smart Cities. These prompt patterns enable a blend of depth, creativity, and precision across reports, case studies, articles, and even visual storytelling formats.
+![image](https://github.com/user-attachments/assets/870b7397-5920-40bd-b9ef-942fd72c658c)
 
 # RESULT:
 Thus, the experiment showed that using diverse prompt patterns greatly enhanced the quality, clarity, and relevance of AI-generated content such as reports, articles, and case studies on Sustainable Smart Cities. Structured prompts led to more coherent, audience-specific, and insightful outputs.
